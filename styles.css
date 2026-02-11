@@ -1,0 +1,44 @@
+#profile {
+    width: 100%;
+    height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+#Welcome {
+    text-align: center;
+    font-family: lora;
+    color:darkolivegreen;
+}
+
+#bio {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+#addressMargin {
+    background-color: green;
+}
+
+.navbar-brand {
+    margin: 10px;
+}
+
+#About_page {
+    background-color: lightcyan;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#interestDesc {
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+    color:mediumblue;
+}
+
+#Hobby {
+    text-align: center;
+    font-style: bold;
+}
